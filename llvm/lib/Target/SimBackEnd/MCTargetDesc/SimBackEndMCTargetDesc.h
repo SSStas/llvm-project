@@ -1,0 +1,6 @@
+#ifndef LLVM_LIB_TARGET_SimBackEnd_MCTARGETDESC_SimBackEndMCTARGETDESC_H
+#define LLVM_LIB_TARGET_SimBackEnd_MCTARGETDESC_SimBackEndMCTARGETDESC_H
+
+extern "C" void LLVMInitializeSimBackEndTargetMC();
+
+#endif // LLVM_LIB_TARGET_SimBackEnd_MCTARGETDESC_SimBackEndMCTARGETDESC_H
